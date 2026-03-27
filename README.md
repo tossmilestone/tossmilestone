@@ -4,3 +4,5 @@
 - 📫 How to reach me: tossmilestone@gmail.com
 
 ### Github Stats
+
+![Stats](./profile/stats.svg)
